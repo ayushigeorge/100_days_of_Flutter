@@ -18,4 +18,6 @@ link:https://www.youtube.com/watch?v=C5lpPjoivaw&list=PL4cUxeGkcC9jLYyp2Aoh6hcWu
 
 # Day 5
 Made heading using Scaffold and centeredt he content of the page.
+![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/fb525188-8d5c-4c2c-aeef-381345a698d8)
+
 
