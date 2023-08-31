@@ -13,6 +13,8 @@ Made emmaculator hello world
 # Day 4
 made custom Flutter simple heading 
 link:https://www.youtube.com/watch?v=C5lpPjoivaw&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=5&ab_channel=NetNinja
+![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/ebcb9770-08b5-45b9-b5fb-8994ba41e5f4)
+
 
 # Day 5
 
