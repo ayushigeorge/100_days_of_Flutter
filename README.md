@@ -17,7 +17,9 @@ link:https://www.youtube.com/watch?v=C5lpPjoivaw&list=PL4cUxeGkcC9jLYyp2Aoh6hcWu
 ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/ebcb9770-08b5-45b9-b5fb-8994ba41e5f4)
 
 # Day 5
-Made heading using Scaffold and centeredt he content of the page.
+Made heading using Scaffold and centered he content of the page.
 ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/fb525188-8d5c-4c2c-aeef-381345a698d8)
 
+## Day 6
+Made custom flutter page with appbar 
 
