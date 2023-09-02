@@ -21,7 +21,8 @@ Made heading using Scaffold and centered he content of the page.
 ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/fb525188-8d5c-4c2c-aeef-381345a698d8)
 
 ## Day 6
-Made custom flutter page with appbar 
+Learnt about Stateless and Stateful widget
+Stateless : state of the widget cannot change , Stateful :statte of widget can change.
 ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/955bf956-da41-4cc5-ad70-8900fcca09ab)
 
 
