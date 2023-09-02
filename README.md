@@ -23,6 +23,7 @@ Made heading using Scaffold and centered he content of the page.
 ## Day 6
 Learnt about Stateless and Stateful widget
 Stateless : state of the widget cannot change , Stateful :statte of widget can change. this is useful for same features and OOPs property of classes and objects and calling the same feature anywhere else in the app.
+b. We use override function to redefine the stateless widget build in functions.
 ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/955bf956-da41-4cc5-ad70-8900fcca09ab)
 
 
