@@ -26,4 +26,6 @@ Stateless : state of the widget cannot change , Stateful :statte of widget can c
 b. We use override function to redefine the stateless widget build in functions.
 ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/955bf956-da41-4cc5-ad70-8900fcca09ab)
 
-
+## Day 7
+Following this video: https://www.youtube.com/watch?v=Hxh6nNHSUjo&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=8&ab_channel=NetNinja
+Adding image to the flutter main page
