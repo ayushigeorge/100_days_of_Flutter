@@ -31,3 +31,6 @@ b. We use override function to redefine the stateless widget build in functions.
 ## Day 7
 Following this video: https://www.youtube.com/watch?v=Hxh6nNHSUjo&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=8&ab_channel=NetNinja
 Adding image to the flutter main page
+![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/fdc2ee07-1a42-4b5b-a07a-f3963cfc68b6)
+
+## Day 8
