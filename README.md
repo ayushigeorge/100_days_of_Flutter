@@ -33,3 +33,5 @@ Adding image to the flutter main page
 ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/fdc2ee07-1a42-4b5b-a07a-f3963cfc68b6)
 
 ## Day 8
+following this:
+https://www.youtube.com/watch?v=ABmqtI7ec7E&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=9&ab_channel=NetNinja
