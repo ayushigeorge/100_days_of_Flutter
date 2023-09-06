@@ -39,3 +39,6 @@ https://www.youtube.com/watch?v=ABmqtI7ec7E&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6
 Raised Button
 ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/f4d23932-7f6e-4e0d-b291-349a1398a698)
 
+## Day 9 
+Container Widget and Padding
+Following this : https://www.youtube.com/watch?v=H0cJ0gUlgE8&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=10&ab_channel=NetNinja
