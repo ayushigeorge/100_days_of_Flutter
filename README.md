@@ -43,3 +43,8 @@ Raised Button
 Container Widget and Padding
 Following this : https://www.youtube.com/watch?v=H0cJ0gUlgE8&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=10&ab_channel=NetNinja
 ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/5b1cbea4-4a5a-4173-a523-354fad067a08)
+
+## Day 10 
+Row and more icons widgets on the app
+Following: https://www.youtube.com/watch?v=a6oKFvGuTH4&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=11&ab_channel=NetNinja
+
