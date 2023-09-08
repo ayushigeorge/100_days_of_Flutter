@@ -52,3 +52,5 @@ Following: https://www.youtube.com/watch?v=a6oKFvGuTH4&list=PL4cUxeGkcC9jLYyp2Ao
 Coloumn and Cross Align widgets 
 following: https://youtu.be/siFU8c_Heu0?si=4xDGCmWESf9QP56F
 Code updated
+output: ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/aaf1f0f0-3df6-48ba-9467-af5280a5faf5)
+
