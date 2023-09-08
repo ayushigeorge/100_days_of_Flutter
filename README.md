@@ -48,3 +48,7 @@ Following this : https://www.youtube.com/watch?v=H0cJ0gUlgE8&list=PL4cUxeGkcC9jL
 Row and more icons widgets on the app
 Following: https://www.youtube.com/watch?v=a6oKFvGuTH4&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=11&ab_channel=NetNinja
 
+## Day 11
+Coloumn and Cross Align widgets 
+following: https://youtu.be/siFU8c_Heu0?si=4xDGCmWESf9QP56F
+Code updated
