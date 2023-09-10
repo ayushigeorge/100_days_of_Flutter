@@ -57,3 +57,6 @@ output: ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/7641
 ## Day 12
 Following: https://www.youtube.com/watch?v=RdPkFd6_fTA&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=13&ab_channel=NetNinja
 shortcuts in flutter
+## Day 13
+Expandable Widgets in Flutter
+following : https://www.youtube.com/watch?v=zNZvuP8h1vs&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=14&ab_channel=NetNinja
