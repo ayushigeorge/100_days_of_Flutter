@@ -60,3 +60,7 @@ shortcuts in flutter
 ## Day 13
 Expandable Widgets in Flutter
 following : https://www.youtube.com/watch?v=zNZvuP8h1vs&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=14&ab_channel=NetNinja
+
+## Day 14
+Know about Stateful widget
+following: https://youtu.be/c063ddhWafo?si=G8oAX_3e-I_xIWrR
