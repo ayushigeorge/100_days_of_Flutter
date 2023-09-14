@@ -65,6 +65,6 @@ following : https://www.youtube.com/watch?v=zNZvuP8h1vs&list=PL4cUxeGkcC9jLYyp2A
 Know about Stateful widget
 following: https://youtu.be/c063ddhWafo?si=G8oAX_3e-I_xIWrR
 
-## Day 15-16
-Building an app 
+## Day 15-16-17
+Building a flutter app 
 following: https://www.youtube.com/watch?v=c063ddhWafo&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=15&pp=iAQB&ab_channel=NetNinja
