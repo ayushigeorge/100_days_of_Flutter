@@ -69,3 +69,7 @@ following: https://youtu.be/c063ddhWafo?si=G8oAX_3e-I_xIWrR
 Building a flutter app 
 following: https://www.youtube.com/watch?v=c063ddhWafo&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=15&pp=iAQB&ab_channel=NetNinja
 Screenshot of app home screen: ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/7fd4e21e-75b6-404a-a49c-853f3612d834)
+
+## Day 18
+Made the gradle phone work and used stateful widgets
+![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/5b5302c3-053b-4ef3-94bb-16df5ad61688)
