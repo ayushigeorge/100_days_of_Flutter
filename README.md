@@ -68,3 +68,4 @@ following: https://youtu.be/c063ddhWafo?si=G8oAX_3e-I_xIWrR
 ## Day 15-16-17
 Building a flutter app 
 following: https://www.youtube.com/watch?v=c063ddhWafo&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=15&pp=iAQB&ab_channel=NetNinja
+Screenshot of app home screen: ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/7fd4e21e-75b6-404a-a49c-853f3612d834)
