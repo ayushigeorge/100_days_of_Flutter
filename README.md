@@ -73,3 +73,6 @@ Screenshot of app home screen: ![image](https://github.com/ayushigeorge/100_days
 ## Day 18
 Made the gradle phone work and used stateful widgets
 ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/5b5302c3-053b-4ef3-94bb-16df5ad61688)
+
+## Day 19
+List of data , following : https://www.youtube.com/watch?v=_AC90CiDoKA&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=17&ab_channel=NetNinja
