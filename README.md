@@ -76,3 +76,6 @@ Made the gradle phone work and used stateful widgets
 
 ## Day 19
 List of data , following : https://www.youtube.com/watch?v=_AC90CiDoKA&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=17&ab_channel=NetNinja
+
+## Day 20
+custom lists
