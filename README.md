@@ -83,5 +83,6 @@ custom lists
 ## Day 21 -22
 Quotes app 
 Following: https://www.youtube.com/watch?v=_AC90CiDoKA&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=17&ab_channel=NetNinja
-![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/cbfb0429-6260-4bba-a8b4-1db71b4cf037)
+![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/c97eb8e9-217a-4acb-904f-bd07b4a9cefa)
+
 
