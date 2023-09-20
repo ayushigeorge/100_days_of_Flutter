@@ -77,10 +77,11 @@ Made the gradle phone work and used stateful widgets
 ## Day 19
 List of data , following : https://www.youtube.com/watch?v=_AC90CiDoKA&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=17&ab_channel=NetNinja
 
-## Day 20
-custom lists
+## Day 20-21
+made custom classes
+following: https://youtu.be/QgQJJ0y0A6w?si=onY-hHJWRNqWE9cI
 
-## Day 21 -22
+## Day 22 -24
 Quotes app 
 Following: https://www.youtube.com/watch?v=_AC90CiDoKA&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=17&ab_channel=NetNinja
 ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/c97eb8e9-217a-4acb-904f-bd07b4a9cefa)
