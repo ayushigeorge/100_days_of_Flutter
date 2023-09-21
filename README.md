@@ -87,3 +87,7 @@ made custom classes of the quote app
 following: https://youtu.be/QgQJJ0y0A6w?si=onY-hHJWRNqWE9cI
 ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/1459225a-97f6-43a7-b1af-55f626873476)
 
+## Day 23
+Following : https://youtu.be/aqePcMyeoIY?si=lVTZ4dZfzl59kqzI
+![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/7cb17691-339c-41a9-9c80-b24103350042)
+
