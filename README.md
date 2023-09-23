@@ -91,7 +91,8 @@ following: https://youtu.be/QgQJJ0y0A6w?si=onY-hHJWRNqWE9cI
 Following : https://youtu.be/aqePcMyeoIY?si=lVTZ4dZfzl59kqzI
 ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/7cb17691-339c-41a9-9c80-b24103350042)
 
-## Day 24
+## Day 24-25 
 New App in process 
+WORLD TIME APP
 Following: https://www.youtube.com/watch?v=WghpP9W2vXo&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=22&ab_channel=NetNinja
 
