@@ -82,16 +82,16 @@ Quotes app
 Following: https://www.youtube.com/watch?v=_AC90CiDoKA&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=17&ab_channel=NetNinja
 ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/c97eb8e9-217a-4acb-904f-bd07b4a9cefa)
 
-## Day 22 -24
+## Day 22 -23
 made custom classes of the quote app
 following: https://youtu.be/QgQJJ0y0A6w?si=onY-hHJWRNqWE9cI
 ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/1459225a-97f6-43a7-b1af-55f626873476)
 
-## Day 23
+## Day 24
 Following : https://youtu.be/aqePcMyeoIY?si=lVTZ4dZfzl59kqzI
 ![image](https://github.com/ayushigeorge/100_days_of_Flutter/assets/76419649/7cb17691-339c-41a9-9c80-b24103350042)
 
-## Day 24-25 
+## Day 25-26 
 New App in process 
 WORLD TIME APP
 Following: https://www.youtube.com/watch?v=WghpP9W2vXo&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=22&ab_channel=NetNinja
