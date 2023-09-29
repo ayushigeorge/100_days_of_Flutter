@@ -96,6 +96,6 @@ New App in process
 WORLD TIME APP
 Following: https://www.youtube.com/watch?v=WghpP9W2vXo&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=22&ab_channel=NetNinja
 
-## Day 27
+## Day 27-28
 still working on world time app learnt map routines
 following: https://www.youtube.com/watch?v=WG5tJIAq5b0&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=23&ab_channel=NetNinja
